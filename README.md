@@ -21,10 +21,6 @@ The **Waldos** repository revolves around the chronicles of Vorvadoss, a mythica
 - `assets/`: Visual aids such as universe maps and concept illustrations.
 - `glossary.md`: Terminologies and their meanings for quick reference.
 
-## 🚀 How to Contribute
-
-Contributions are welcome! See the [CONTRIBUTING.md](CONTRIBUTING.md) file for details on how to get involved.
-
 ## 🔗 Links
 
 - **Waldensian Treasure Explained**: [View Documentation](docs/relics.md)
